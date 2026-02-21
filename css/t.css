@@ -1,0 +1,14 @@
+p{
+    color: grey;
+}
+button{
+    background-color: blue;
+    border: 0;
+    border-radius: 0.2rem;
+    color: white;
+}
+
+.a{
+    border: 2px solid black;
+    width: 30vw;
+}

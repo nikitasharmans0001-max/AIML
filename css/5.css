@@ -1,0 +1,10 @@
+div{
+    border:2px solid gray;
+    width:40vw;
+    height:80vh;
+    margin-left: 4rem;
+    padding-left: 4rem;
+}
+p{
+    color:gray;
+}

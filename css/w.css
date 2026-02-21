@@ -1,0 +1,36 @@
+div{
+    border: 2px solid lightgray;
+    width: 50rem;
+    border-radius: 0.3rem;
+    padding: 1rem;
+}
+img{
+    border-radius: 8rem;
+}
+.b{
+    margin-bottom:0px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.d{
+    padding-left: 10rem;
+    color: blue;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.hi{
+    border-radius: 10rem;
+}
+.c{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+}
+.f{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: bold;
+    padding-left: 6.5rem;
+}

@@ -1,0 +1,49 @@
+* {
+    color: pink;
+    background-color: red;
+
+}
+
+#prachi{
+    color: green;
+    border:10px double purple;
+    padding-left: 50px;
+    margin-top: 90px;
+}
+
+button {
+    color: blue;
+
+}
+
+.niki {
+    color: black;
+}
+#yagya{
+    background-color:purple;
+}
+p1{
+    border:3px dotted white;
+    color:green;
+    padding: 40px;
+}
+body{
+    border: 2px solid green;
+    height:50vh;
+    width:80vw;
+}
+h1{
+    border: 2px solid blue;
+    width:50%;
+    background-color: red;
+}
+html{
+    font-size: 26px;
+}
+h2{
+    border: 5px solid yellow;
+    padding: 2rem;
+    font-size: 4rem;
+    margin: 8rem;
+    
+}

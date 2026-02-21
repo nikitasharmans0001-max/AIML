@@ -1,0 +1,17 @@
+div {
+    border: 4px solid black;
+    background-color: green;
+    color: white;
+    width: 10%;
+    height: 88vh;
+
+
+}
+
+.a {
+    padding: 26px;
+}
+
+* {
+    margin: 0px;
+}

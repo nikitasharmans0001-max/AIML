@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.header{
+    display:flex;
+    align-items: center;
+    padding:0 30px;
+}
+
+.a{
+    /* align-self: flex-start; */
+    font-weight: bold;
+}
+.b{
+    display:flex;
+    gap:25px;
+    /* margin:auto; */
+}
+.c button{
+    padding:6px 14px;
+}

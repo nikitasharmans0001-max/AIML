@@ -1,0 +1,7 @@
+ .A{
+    list-style-type:square;
+} 
+.A>li::marker{
+    color:rgb(12, 243, 12);
+    font-size:2rem;
+}

@@ -1,0 +1,32 @@
+img{
+    border-radius: 12rem;
+}
+.a{
+    padding-top: 2rem;
+    border: 2px solid rgb(189, 185, 185);
+    width:18vw;
+    height:90vh;
+    margin-left:20rem;
+    padding-left: 0.7rem;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.b{
+    width:19rem;
+    height:3rem;
+    
+    border-radius: 0.5rem;
+    background-color: rgb(240, 233, 233);
+    border:2px solid gray;
+    color:gray;
+    font-size: 1rem;
+}
+i{
+    padding-left: rem;
+    color:rgb(138, 135, 135);
+}
+body{
+    margin:0;
+    padding: 0;
+}

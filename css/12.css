@@ -1,0 +1,23 @@
+.a{
+    display:flex;
+    align-self: flex-start;
+    justify-content: space-between;
+    background-color: green;
+    color:white;
+    height:3rem;
+    padding-left: 3rem;
+    padding-top: rem;
+}
+.b{
+    display:flex;
+    align-items:center;
+  
+}
+*{
+    margin:0;
+    padding:0;
+}
+span{
+     padding:2rem
+}
+.

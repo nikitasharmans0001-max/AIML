@@ -1,0 +1,13 @@
+body{
+    height: 80vh;
+    border:2px solid red;
+     display:flex;
+     flex-direction:column ; 
+    
+}
+div{
+    height:50px;
+    width:50px;
+    background-color: purple;
+    color:white;
+}

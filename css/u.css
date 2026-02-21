@@ -1,0 +1,46 @@
+.a{
+    border: 2px solid white;
+    border-radius: 0.5rem;
+    width: 20rem;
+    padding: 1rem;
+    background-color: white;
+}
+button{
+    background-color: blue;
+    color: white;
+    border: 0;
+    border-radius: 0.2rem;
+    width: 20.5rem;
+    height: 1.5rem;
+    margin-top: 1rem;
+    
+}
+span{
+    color: blue;
+}
+#b{
+    padding-left: 6rem;
+}
+#c{
+    color: grey;
+}
+h2{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.A{
+ margin-bottom: 0px;  
+}
+.B{
+    margin-bottom: 0px;
+}
+#f{
+    margin-bottom: 0.5rem;
+    width: 20rem;
+}
+#e{
+    width: 20rem;
+}
+body{
+    background-color:whitesmoke;
+}

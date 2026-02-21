@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header{
+    display:flex;
+    /* justify-content: center;  */
+    align-items: center;
+    /* padding-left: 50rem; */
+    background-color: black;
+    color:white;
+    /* padding-left: 30rem; */
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+}
+
+.button1{
+     margin-left: 21rem;
+     height: 2rem;
+     width:6rem;
+     font-size: 1rem;
+     border-radius: 0.9rem;
+     background-color: rgb(10, 243, 126);
+     border:none;
+} 
+
+.header div a{
+    padding-left:1rem;
+    color:white;
+    text-decoration: none;
+}
+.links{
+    padding-left: 26rem;
+}
+
+.leftsection ul li{
+    list-style-type:none;
+    padding:1rem 2rem;
+}
+
+h3{
+   
+    padding-left:1rem;
+}
+.leftsection{
+    background-color: black;
+    color:white;
+    width:40vh;
+    
+}
+
+.main{
+    display:flex;  
+}
+
+.rightsection{
+    display:flex;
+    padding:3rem 1.5rem;
+    gap:2rem;
+}
+
+img{
+    border-radius: 0.9rem;
+    height:70vh;
+}
+
+.left{
+    display:flex;
+    flex-direction:column;
+}
+
+.button2{
+    width:9rem;
+    height:2rem;
+    margin-top: 1rem;
+    border-radius: 0.9rem;
+    background-color: rgb(10, 243, 126);
+    border:none;
+    font-weight: bold;
+}
+
+.next{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:1rem;
+    padding:1rem 2rem;
+    
+}
+.next div{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     padding:3rem 2.5rem;
+    border-radius: 10px;
+    text-align: center;
+}
+.a{
+    font-size: 1rem;
+    color:aqua;
+    font-weight: bold;
+}
+.b{
+    font-weight: bold;
+}
+
+.c{
+    padding:0.5rem 0.5rem;
+}
+h4{
+  padding-right: 3.5rem;
+}
+h1{
+    padding-left: 2.1rem;
+    padding:1.5rem 1.5rem;
+}
+
+

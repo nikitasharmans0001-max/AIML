@@ -1,0 +1,61 @@
+.a{
+    border:2px solid rgb(228, 221, 221);
+    height:80vh;
+    width:33vw;
+    margin-left: 20vw;
+    margin-top: 5vw;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b{
+    border-radius: 0.5rem;
+    border: 2px solid gray;
+    width: 15vw;
+    background-color: white;
+    font-size: 1rem;
+    height: 3.5rem;
+   margin-top: 2rem;
+   padding-bottom: 4rem;
+   border: 2px solid rgb(216, 214, 214);
+}
+.c{
+    border-radius: 0.5rem;
+    border: 2px solid gray;
+    width: 15vw;
+    background-color: white;
+    margin-left:1rem;
+    font-size:1rem;
+    border:2px solid rgb(216, 214, 214);
+}
+.d{
+    width: 33rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    font-size: 1.3rem;
+    padding-left: 1rem;
+    background-color:rgb(252, 251, 251);
+    border:2px solid rgb(216, 214, 214);
+}
+th{
+    padding-left: 17rem;
+    color:blue;
+    font-weight: bold;
+}
+.e{
+    width: 34rem;
+    height:2.5rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    border: 0;
+}
+img{
+    padding-top: rem;
+}
+table{
+    color:gray;
+}
+

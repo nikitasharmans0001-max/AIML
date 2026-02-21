@@ -1,0 +1,26 @@
+.grid-container{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows:200px 200px 200px  ;
+    gap: 1rem;
+}
+.grid-container div{
+    border:2px solid red;
+    background-color: skyblue;
+}
+.one{
+    grid-row-start: 1;
+    grid-row-end: 4;
+    background-color: green! important;
+}
+.two{
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+.six{
+    grid-row-start: 2;
+    grid-row-end: 4;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    background-color: red! important;
+}

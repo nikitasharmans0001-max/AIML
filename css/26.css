@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;   /* Web font */
+    background-color: #f2f2f2;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 36px;
+    text-shadow: 2px 2px 5px gray;   /* Text shadow */
+}
+
+p {
+    font-size: 18px;
+    text-shadow: 1px 1px 3px lightgray;
+}

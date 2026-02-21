@@ -1,0 +1,24 @@
+.first{
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(221, 209, 209);
+}
+
+main{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr 1fr 1fr;
+    height:100vh;
+    gap:1rem;
+    pa
+
+}
+.three{
+    border:2px solid black;
+}
+img{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}

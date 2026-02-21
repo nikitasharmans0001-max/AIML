@@ -1,0 +1,93 @@
+#a{
+     color:orange;
+}
+*{
+    padding:0;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.first{
+    display:flex;
+    
+}
+.drop{
+    margin-left:45rem;
+}
+.weather{
+    margin-left: 15rem;
+}
+.container{
+    margin-top: 4rem;
+}
+.heading{
+    padding-top: 3rem;
+    margin-left: 34rem;
+}
+.button1{
+    margin-top: 2rem;
+    margin-left:36rem;
+    width:18rem;
+    height:2rem;
+    padding-right: 6rem;
+    border-radius: 0.3rem;
+}
+.button2{
+    height:2rem;
+    width:5rem;
+    background-color: rgb(142, 2, 207);
+    color:white;
+    border-radius:0.3rem;
+}
+
+.second{
+    display:flex;
+    margin-left: 15rem;
+    margin-top: 3rem;
+    border:2px solid black;
+    align-items: center;
+    width:rem;
+    border-radius:0.3rem;
+    
+}
+.temp{
+    font-size: 7rem;
+    padding-left: 18rem;
+}
+.third{
+    padding-left: 1rem;
+}
+.fifth{
+    display:flex;
+}
+.sec{
+    display:flex;
+    align-items:flex-start;
+}
+.second1{
+    margin-top:3rem;
+    margin-left:1rem;
+    padding-top:0;
+}
+.sel{
+    margin-left: 5rem;
+}
+.smalldiv{
+    display:flex;
+    justify-content: space-between;
+    border:2px solid grey;
+    margin-top: 1rem;
+    height:rem;
+    border-radius:0.3rem;
+}
+.forecast{
+    border:2px solid grey;
+    margin-top: 3rem;
+    margin-left:2rem;
+    padding-top: 0;
+}
+.fifth h4{
+    margin:0;
+    padding:0;
+}
+
+
